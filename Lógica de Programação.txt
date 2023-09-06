@@ -1,7 +1,4 @@
 Estruturas de Decisão.
 Estruras de Repetição.
-<<<<<<< HEAD
 Registros.
-=======
 Conjuntos.
->>>>>>> af072bd994a8bc15af967252355faaeb44cb7b98
