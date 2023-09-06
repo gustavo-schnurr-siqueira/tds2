@@ -2,3 +2,4 @@ Estruturas de Decisão.
 Estruras de Repetição.
 Registros.
 Conjuntos.
+Matrizes.
