@@ -1,2 +1,3 @@
 Estruturas de Decisão.
 Estruras de Repetição.
+Registros.
